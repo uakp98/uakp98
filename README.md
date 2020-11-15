@@ -51,12 +51,12 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 ### Languages:
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/c.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/java.png" height="30"></code>
-<!--<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>-->
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" height="30"></code>
-<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/ts.png" height="30"></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/ts.png" height="30"></code>-->
 
 ### Web Development (Full-stack):
-
+<!--
 #### Backend/Server:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
@@ -68,7 +68,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/ldap.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg" height="30"></code>-->
 
 #### •Micro-Services:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
