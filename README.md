@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 I am Apurba here..
 
 <!--
 **uakp98/uakp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
   
 <!--
 [![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
@@ -32,12 +32,15 @@ Here are some ideas to get you started:
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007 --->
 
 <!--<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >-->
+
+A dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.<br><br>
+Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Serampore | Coding Enthusiastic | Java Lover | Interested to work in Software Industry | Full-stack Web-Developer | Trainer | Tech Content Writer | Open-Source Contributor | freelance photographer
 <p align="center">
 <!--<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;-->
-<a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/l.png"></a>&nbsp;&nbsp;
+<a href="https:/https://www.linkedin.com/in/apurba-kumar-pramanik-721b2a19a/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/l.png"></a>&nbsp;&nbsp;
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
-<a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://github.com/uakp98/uakp98/tree/main/img/social/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://soumyadip007.github.io/Resume/"><img height="30" src="https://github.com/uakp98/uakp98/tree/main/img/social/p.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/p.png"></a>&nbsp;&nbsp;
 </p>
   
 
