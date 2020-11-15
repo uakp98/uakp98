@@ -1,4 +1,4 @@
-### Hi 👋 I am Apurba here..
+### Hi 👋, I am Apurba here..
 
 <!--
 **uakp98/uakp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <!--<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;-->
 <a href="https:/https://www.linkedin.com/in/apurba-kumar-pramanik-721b2a19a/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/l.png"></a>&nbsp;&nbsp;
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
-<a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/insta.png"></a>&nbsp;&nbsp;
 <a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/p.png"></a>&nbsp;&nbsp;
 </p>
   
@@ -49,11 +49,11 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 
 
 ### Languages:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/c.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/java.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/js.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/ts.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/c.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/java.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/pl/python.png" height="30"></code>-->
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/ts.png" height="30"></code>-->
 
 ### Web Development (Full-stack):
 
