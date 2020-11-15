@@ -1,4 +1,4 @@
-### Hi there 👋, I am Apurba Kumar Pramanik here..
+### Hi there 👋
 
 <!--
 **uakp98/uakp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,15 +32,11 @@ Here are some ideas to get you started:
 <img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/> (https://visitor-badge.glitch.me/badge?page_id=soumyadip007.soumyadip007 --->
 
 <!--<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >-->
-## 💬 Ask me about ...
-A dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.<br><br>
- Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Serampore | Coding Enthusiastic | Java Lover | Interested to work on Software Industry | Full-stack Web-Developer | Trainer | Tech Content Writer | Open-Source Contributor | freelance photographer
-
 <p align="center">
-<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/l.png"></a>&nbsp;&nbsp;
-<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@iamsoumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/mm.png"></a>&nbsp;&nbsp;
+<!--<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;-->
+<a href="https://www.linkedin.com/in/soumyadip-chowdhury/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/social/l.png"></a>&nbsp;&nbsp;
+<!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
+<a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/social/instagram.png"></a>&nbsp;&nbsp;
 <a href="https://soumyadip007.github.io/Resume/"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/p.png"></a>&nbsp;&nbsp;
 </p>
   
