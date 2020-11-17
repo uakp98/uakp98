@@ -69,7 +69,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg" height="30"></code>-->
-
+<!--
 #### •Micro-Services:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rx.png" height="30"></code>
@@ -81,8 +81,8 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/zuul.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/hystrix.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/seluth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/zipkin.png" height="30"></code>
-
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/zipkin.png" height="30"></code>-->
+<!--
 #### •Frontend/UI:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
@@ -92,7 +92,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
-
+<!--
 #### •Database:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/oracle.png" height="30"></code>
@@ -100,7 +100,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/dy.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/cas.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
-
+<!--
 ### Cloud/Dev-Ops:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/lambda.png" height="30"></code>
@@ -111,7 +111,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="30"></code>
-
+<!--
 ### Others:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/ott.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/agile.jpg" height="30"></code>
@@ -119,7 +119,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/bitmovin.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/kaltura.png" height="30"></code>
 
-
+<!--
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
@@ -196,7 +196,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
       <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
   </ul>
 <p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
-
+<!--
 ## Achivements 🏆🏅🎉
   <ul>
     <li><a href="https://twitter.com/s_oumyadip/status/1246899031327920130" />1st Prize In Hackathon (UEMK,2019)</a></li>
@@ -217,7 +217,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
   </a>
 </div>
 
-
+<!--
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
 
