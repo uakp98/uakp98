@@ -61,6 +61,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/j2ee.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/jsp.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/servlet.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/tomcat.jpg" height="30"></code>
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/spring-1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.jpeg" height="30"></code>
@@ -68,7 +69,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/ldap.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/security/oauth.png" height="30"></code>-->
-<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/tomcat.jpg" height="30"></code>
+
 <!--
 #### •Micro-Services:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
@@ -87,11 +88,12 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/html.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/css.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/bt.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" height="30"></code>
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/thymeleaf.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/jq.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/redux.png" height="30"></code>-->
-<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" height="30"></code>
+
 
 #### •Database:
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/mysql1.png" height="30"></code>
