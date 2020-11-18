@@ -56,19 +56,19 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/ts.png" height="30"></code>-->
 
 ### Web Development (Full-stack):
-<!--
+
 #### Backend/Server:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/j2ee.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/jsp.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/servlet.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/j2ee.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/jsp.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/servlet.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/spring-1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.jpeg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/security.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/ldap.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/jwt.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/oauth.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/tomcat.jpg" height="30"></code>-->
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/security/jwt.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/security/oauth.png" height="30"></code>-->
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/tomcat.jpg" height="30"></code>
 <!--
 #### •Micro-Services:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/rest.png" height="30"></code>
@@ -82,35 +82,35 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/hystrix.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/seluth.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ms/zipkin.png" height="30"></code>-->
-<!--
+
 #### •Frontend/UI:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/html.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/css.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/bt.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/thymeleaf.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/angular.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/jq.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/redux.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/ui/ajax.png" height="30"></code>
-<!--
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/html.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/css.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/bt.jpg" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/thymeleaf.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/angular.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/jq.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/redux.png" height="30"></code>-->
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" height="30"></code>
+
 #### •Database:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mysql1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/oracle.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/mongo.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/dy.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/cas.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/db/redis.png" height="30"></code>
-<!--
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/mysql1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/oracle.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/mongo.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/dy.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/cas.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/redis.png" height="30"></code>-->
+
 ### Cloud/Dev-Ops:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/aws.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/lambda.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/s3.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/maven.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/git.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/github.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/docker.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/ku.jpg" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/cloud/jenkins.jpg" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/aws.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/lambda.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/s3.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/maven.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/git.png" height="30"></code>-->
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/github.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/docker.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/ku.jpg" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/jenkins.jpg" height="30"></code>-->
 <!--
 ### Others:
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/ott.png" height="30"></code>
@@ -121,7 +121,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 
 <!--
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
-
+<!--
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
 | SDE Intern | [@Bajaj Finserv Health](https://www.bajajfinservhealth.in/) | Sep 2020 - Present |
@@ -131,9 +131,9 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 | Technical Instructor | [@Team-Cognito](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-summertraining-webapplicationdevelopment-activity-6552178927043997696-FhR3) | May 2019 - July 2020 |
 | J2EE Web Developer Intern | [@Pro-Ace (USA)](https://lightningspeedmatchmaker.com/#our-team) | Jan 2019 - Apr 2019 |
 | J2EE Web Developer Intern | [@Aim-India](http://www.aimindia.org.in) | Nov 2018 - Dev 2018 |
-| Software Developer Intern | [@Team-Cognito]() | Aug 2018 - Oct 2018 |
+| Software Developer Intern | [@Team-Cognito]() | Aug 2018 - Oct 2018 |-->
 
-<h3>Most Popular Open-Source Repositories🔺👑</h3>
+<!--<h3>Most Popular Open-Source Repositories🔺👑</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -180,14 +180,14 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 	    <td><a href="https://github.com/soumyadip007/DBJ.jar"><b>DBJ.jar Library</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/soumyadip007/DBJ.jar?style=flat-round&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/soumyadip007/DBJ.jar?style=flat-round&labelColor=343b41"/></td>
- <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/DBJ.jar?style=flat-round&labelColor=343b41"/></td>    </tr>
+ <td><img alt="Issues" src="https://img.shields.io/github/issues/soumyadip007/DBJ.jar?style=flat-round&labelColor=343b41"/></td>    </tr>-->
 
  
- 
+ <!--
   </tbody>	 
-</table>
+</table>-->
 
-
+<!--
 ## Latest Blog Posts :speech_balloon: :clipboard: :black_nib:
   <ul>
     <li><a href="https://medium.com/@iamsoumyadip/blockchain-future-of-web-3-0-3efe6f234f4a" />Blockchain & future of Web 3.0</a></li>
@@ -207,21 +207,20 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
    <li><a href="https://twitter.com/s_oumyadip/status/1288160643225280513" />1st Top Most Active Github User In INDIA (2020, By Commits.Top)
 <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_beta-msp-mspabrgold-activity-6659703773394546694-GKGQ" />Microsoft Beta Student Partner Among 700 MSP In INDIA (2019-21)</a></li>
   <li><a href="#" />Developer Student Club, University Lead (2020-21)</a></li>
-  
   </ul>
   
-<div>
+<!--<div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=soumyadip007&column=7&hide=PullRequest"/>
   </a>
-</div>
+</div>-->
 
 <!--
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+<!--<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
 
 <!--- 
 <p   align="center" >
