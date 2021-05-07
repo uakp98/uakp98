@@ -129,7 +129,8 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 | :-: | :-: | :-: |
 | Coordinator & IT System Manager | [@The Moymath Online Academy](https://www.moymath.com/) | Dec 2020 - Present |
 | Web Developer Intern | [@RC Diamonds](https://www.linkedin.com/company/rc-diamonds/) | Dec 2020 - Mar 2020 |
-| Technical Instructor/ Trainer | [@NiiT (Kolkata)](#) | Nov 2019 - May 2020 |
+| Technical Instructor/ Trainer | [@NiiT (Kolkata)](#) | Oct 2020- Present |
+| Human Resources Intern | [@Youth Empowerment Foundation](https://www.yefindia.org/) | Jun 2020- Aug 2020 |
 <!--| Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
 | Technical Instructor | [@Team-Cognito](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-summertraining-webapplicationdevelopment-activity-6552178927043997696-FhR3) | May 2019 - July 2020 |
 | J2EE Web Developer Intern | [@Pro-Ace (USA)](https://lightningspeedmatchmaker.com/#our-team) | Jan 2019 - Apr 2019 |
@@ -198,7 +199,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
    <li><a href="https://medium.com/@iamsoumyadip/a-tri-folded-intelligent-system-to-pre-monitor-and-predict-a-tsunami-flood-and-earthquake-based-b92961094b32" />A tri-folded Intelligent System to pre-monitor and predict Disaster</a></li>
       <li><a href="https://medium.com/@iamsoumyadip/design-an-enterprise-service-rest-api-with-mvc-binding-using-java-spring-boot-jpa-hibernate-db56108e7830" />Design an Enterprise Service Spring Boot with Microservices, Kafka, GraphQL, ElasticSearch</a></li>
   </ul>
-<p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>
+<p><a href="https://medium.com/@iamsoumyadip">➡️ More blog posts</a></p>-->
 <!--
 ## Achivements 🏆🏅🎉
   <ul>
@@ -210,7 +211,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
    <li><a href="https://twitter.com/s_oumyadip/status/1288160643225280513" />1st Top Most Active Github User In INDIA (2020, By Commits.Top)
 <li><a href="https://www.linkedin.com/posts/soumyadip-chowdhury_beta-msp-mspabrgold-activity-6659703773394546694-GKGQ" />Microsoft Beta Student Partner Among 700 MSP In INDIA (2019-21)</a></li>
   <li><a href="#" />Developer Student Club, University Lead (2020-21)</a></li>
-  </ul>
+  </ul>-->
   
 <div>
   <h4>🏆 Github Profile Trophy</h4>
