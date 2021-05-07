@@ -122,15 +122,15 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/bitmovin.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/kaltura.png" height="30"></code>
 
-<!--
+
 ## Work Experience :computer_mouse: :desktop_computer: :keyboard:
-<!--
+
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| SDE Intern | [@Bajaj Finserv Health](https://www.bajajfinservhealth.in/) | Sep 2020 - Present |
-| Assistant Software Engineer | [@HoiChoi.tv](https://www.hoichoi.tv/) | May 2020 - Sep 2020 |
-| Technical Instructor | [@NiiT (Kolkata)](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-java-web-activity-6619275621568737280-dpDR) | Nov 2019 - May 2020 |
-| Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
+| Coordinator & IT System Manager | [@The Moymath Online Academy](https://www.moymath.com/) | Dec 2020 - Present |
+| Web Developer Intern | [@RC Diamonds](https://www.linkedin.com/company/rc-diamonds/) | Dec 2020 - Mar 2020 |
+| Technical Instructor/ Trainer | [@NiiT (Kolkata)](#) | Nov 2019 - May 2020 |
+<!--| Java Developer-Trainee | [@InvigorateCloud](https://invigoratecloud.com/) | Aug 2019 - Apr 2020 |
 | Technical Instructor | [@Team-Cognito](https://www.linkedin.com/posts/soumyadip-chowdhury_trainer-summertraining-webapplicationdevelopment-activity-6552178927043997696-FhR3) | May 2019 - July 2020 |
 | J2EE Web Developer Intern | [@Pro-Ace (USA)](https://lightningspeedmatchmaker.com/#our-team) | Jan 2019 - Apr 2019 |
 | J2EE Web Developer Intern | [@Aim-India](http://www.aimindia.org.in) | Nov 2018 - Dev 2018 |
@@ -212,19 +212,19 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
   <li><a href="#" />Developer Student Club, University Lead (2020-21)</a></li>
   </ul>
   
-<!--<div>
+<div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=soumyadip007&column=7&hide=PullRequest"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=uakp98&column=7&hide=PullRequest"/>
   </a>
-</div>-->
+</div>
 
-<!--
+
 #### Overall profile stats
-![](https://github-readme-stats.vercel.app/api?username=soumyadip007&count_private=true&theme=merko&show_icons=true&hide=prs)
+![](https://github-readme-stats.vercel.app/api?username=uakp98&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<!--<img src="https://gpvc.arturio.dev/soumyadip007" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/soumyadip007?style=social"/> 
+<img src="https://gpvc.arturio.dev/uakp98" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/uakp98?style=social"/> 
 
-<!--- 
+
 <p   align="center" >
-<a href="https://www.buymeacoffee.com/soumyadip" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>--->
+<a href="https://www.buymeacoffee.com/soumyadip" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
