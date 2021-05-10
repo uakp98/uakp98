@@ -90,7 +90,7 @@ Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Ser
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/bt.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/wordpress(2).png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/wordpress.png" height="30"></code>
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/thymeleaf.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/angular.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/jq.jpg" height="30"></code>
