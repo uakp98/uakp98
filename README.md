@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <!--<img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/frame.jpg" >-->
 
 A dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.<br><br>
-Student of B.Tech- CSE at Govt. College of Engineering & Textile Technlolgy, Serampore | Coding Enthusiastic | Java Lover | Interested to work at Software Industry | Full-stack Web-Developer | Trainer | Tech Content Writer | Open-Source Contributor | freelance photographer
+Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to work at Software Industry || Full-stack Web-Developer || Trainer || Tech Content Writer || Open-Source Contributor || freelance photographer
 <p align="center">
 <!--<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;-->
 <a href="https:/https://www.linkedin.com/in/apurba-kumar-pramanik-721b2a19a/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/l.png"></a>&nbsp;&nbsp;
