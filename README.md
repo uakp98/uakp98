@@ -40,7 +40,8 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <a href="https:/https://www.linkedin.com/in/apurba-kumar-pramanik-721b2a19a/"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>&nbsp;&nbsp;
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
 <a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"></a>&nbsp;
-<a href="mailto:apurbakumar.note@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />&nbsp;
+<a href="mailto:apurbakumar.note@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />&nbsp;https://freepikpsd.com/media/2019/10/fb-logo-png-hd-5.png
+<a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://freepikpsd.com/media/2019/10/fb-logo-png-hd-5.png"></a>&nbsp;
 <a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
