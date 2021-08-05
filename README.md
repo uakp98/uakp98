@@ -236,7 +236,10 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=uakp98&count_private=true&theme=merko&show_icons=true&hide=prs)
 
-<img src="https://gpvc.arturio.dev/uakp98" alt="profile views"/> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uakp98&layout=compact">  <img alt="GitHub followers" src="https://img.shields.io/github/followers/uakp98?style=social"/> 
+<div>
+	<img src="https://gpvc.arturio.dev/uakp98" alt="profile views"/> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uakp98&layout=compact"/>  
+</div>
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/uakp98?style=social"/> 
 
 
 <p   align="center" >
