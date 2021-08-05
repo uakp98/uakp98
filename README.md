@@ -40,7 +40,7 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <a href="https:/https://www.linkedin.com/in/apurba-kumar-pramanik-721b2a19a/"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>&nbsp;&nbsp;
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
 <a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"></a>&nbsp;&nbsp;
-<a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/p.png"></a>&nbsp;&nbsp;
+<a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>&nbsp;&nbsp;
 </p>
 <div align="center">
 
