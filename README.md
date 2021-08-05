@@ -42,7 +42,16 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/insta.png"></a>&nbsp;&nbsp;
 <a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/social/p.png"></a>&nbsp;&nbsp;
 </p>
-  
+<div align="center">
+
+<a  href="https://www.youtube.com/channel/UC9lHcqq-TOWCW_ee6fVwhrg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/rohan-k-2502/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/rohan_2502" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:rohank2502@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><a href="https://www.facebook.com/rohan.kulkarni.2520/" target="_blank">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+<a  href="https://t.me/rohankulkarnichannel"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+</div>  
 
 
 ## :open_book: :books: Skilled in :closed_book: :desktop_computer:
