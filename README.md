@@ -236,11 +236,11 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 #### Overall profile stats
 ![](https://github-readme-stats.vercel.app/api?username=uakp98&count_private=true&theme=merko&show_icons=true&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uakp98&layout=compact)
-<div>
-	<img src="https://gpvc.arturio.dev/uakp98" alt="profile views"/> <img width="40%" src="https://github.com/anuraghazra/github-readme-stats/>  
-</div>
+
+<img src="https://gpvc.arturio.dev/uakp98" alt="profile views"/>  <img width="40%" src="https://github.com/anuraghazra/github-readme-stats/>  
+
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/uakp98?style=social"/> 
 
 
-<p   align="center" >
+<p align="center" >
 <a href="https://www.buymeacoffee.com/ApurbaKr" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
