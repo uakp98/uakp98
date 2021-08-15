@@ -74,7 +74,7 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/jsp.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/servlet.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/tomcat.jpg" height="30"></code>
-<code><img src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" height="30"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8qqWzjOK-5pLSyp8qg8YXcwvbStmj1YVHVqdqPL4Wa-UtxYs60xc9JNISI5aHUuuKI0&usqp=CAU" height="30"></code>
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/spring-1.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/hibernate.jpeg" height="30"></code>
