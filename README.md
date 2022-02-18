@@ -41,8 +41,9 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
 <a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"></a>&nbsp;
 <a href="mailto:apurbakumar.note@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />&nbsp;&nbsp;
-<a href="https://www.facebook.com/apurba.pramanik.54/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/social/Fb-logo.png"></a>&nbsp;
 <a href="https://uakp98.github.io/apurba_resume/"><img height="30" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/apurba.pramanik.54/"><img height="30" src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/social/Fb-logo.png"></a>&nbsp;
+
 </p>
 	
 <!--<div align="center">
