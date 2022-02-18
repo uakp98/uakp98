@@ -66,20 +66,21 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/java.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/pl/python.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/ts.png" height="30"></code>-->
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/ts.png" height="30"></code>-->
 
 ### Web Development (Full-stack):
 
-#### Backend/Server:
+#### •Backend/Server:
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/j2ee.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/jsp.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/servlet.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/tomcat.jpg" height="30"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk8qqWzjOK-5pLSyp8qg8YXcwvbStmj1YVHVqdqPL4Wa-UtxYs60xc9JNISI5aHUuuKI0&usqp=CAU" height="30"></code>
-<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/spring-1.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>-->
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/web/backend/hibernate.jpeg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/master/img/web/security/security.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/backend/spring-1.png" height="30"></code>
+<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/backend/spring-boot.png" height="30"></code>-->
+
 <!--<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/web/security/ldap.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/security/jwt.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/security/oauth.png" height="30"></code>-->
@@ -103,7 +104,7 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/css.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/bt.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/pl/js.png" height="30"></code>
-<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" height="30"></code>
+<!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/ajax.png" height="30"></code>-->
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/wordpress.png" height="30"></code>
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/thymeleaf.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/web/ui/angular.jpg" height="30"></code>
