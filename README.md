@@ -119,7 +119,7 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/cas.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/db/redis.png" height="30"></code>-->
 
-### Cloud/Dev-Ops:
+### •Cloud/Dev-Ops:
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/aws.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/lambda.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/s3.png" height="30"></code>
@@ -129,9 +129,9 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 <!--<code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/docker.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/ku.jpg" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/uakp98/uakp98/main/img/cloud/jenkins.jpg" height="30"></code>-->
-<!--
-### Others:
-<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/ott.png" height="30"></code>-->
+
+### •Others:
+<!--<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/ott.png" height="30"></code>-->
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/agile.jpg" height="30"></code>
 <!--<code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/jira.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/other/bitmovin.png" height="30"></code>
