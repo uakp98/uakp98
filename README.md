@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/Hi.gif" width="40px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/Hi.gif" width="10px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 <img src="topbanner.gif">  
 <!--
 [![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
