@@ -37,7 +37,7 @@ A dedicated student with punctuality, sincerity, flexibility to adjust and good 
 Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to work at Software Industry || Full-stack Web-Developer || Trainer || Tech Content Writer || Open-Source Contributor || freelance photographer
 <p align="center">
 <!--<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;-->
-<a href="https://www.linkedin.com/in/apurba-kumar-pramanik/"><img height="30" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/apurba-kumar-pramanik/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
 <a href="https://www.instagram.com/apurbas_clickz/"><img height="30" src="https://www.freepnglogos.com/uploads/download-instagram-png-logo-20.png"></a>&nbsp;
 <a href="mailto:apurbakumar.note@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />&nbsp;
