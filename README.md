@@ -142,7 +142,7 @@ Student of B.Tech- CSE || Coding Enthusiastic || Java Lover || Interested to wor
 
 | 💼 Designation |  🏢Organization | ⏰Timeline  |
 | :-: | :-: | :-: |
-| Technical Trainer | [@ARDENT COMPUTECH PVT LTD](https://www.ardentcollaborations.com/) | Jul 2021 - Aug 2021 |
+| Technical Trainer | [@Ardent Computech Pvt. Ltd.](https://www.ardentcollaborations.com/) | Jul 2021 - Aug 2021 |
 | Coordinator & IT System Manager | [@The Moymath Online Academy](https://www.moymath.com/) | Dec 2020 - Present |
 | Web Developer Intern | [@RC Diamonds](https://www.linkedin.com/company/rc-diamonds/) | Dec 2020 - Mar 2020 |
 | Technical Instructor/ Trainer | [@NiiT (Kolkata)](#) | Oct 2020- Jul 2021 |
