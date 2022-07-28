@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/Hi.gif" height="30px" width="10px" />, Welcome to my GitHub 👨‍💻❤️</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/uakp98/uakp98/main/Hi.gif" height="30px" width="30px" />, Welcome to my GitHub 👨‍💻❤️</h1>
 <img src="topbanner.gif">  
 <!--
-[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/soumyadip007/soumyadip007)
+[![HitCount](http://hits.dwyl.com/soumyadip007/soumyadip007.svg)](http://hits.dwyl.com/uakp98/uakp98)
 <b>- Platform:</b>
 # Hi, I'm Apurba 👋:man_technologist:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
